@@ -1,0 +1,27 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+div {
+  background-color: rgb(31, 189, 31);
+  border: 3px solid rgb(20, 220, 20);
+}
+h1 {
+  color: rgb(28, 177, 177);
+  text-align: right;
+}
+body {
+  background-color: rgb(14, 14, 32);
+}
+.color-rojo {
+  color: crimson;
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgb(221, 150, 197);
+}
+p {
+  font-size: 25px;
+  color: rgb(21, 143, 117);
+  font-family: cursive;
+}
